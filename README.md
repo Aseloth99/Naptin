@@ -1,1 +1,3 @@
-"# Naptin" 
+Naptın Android Mesajlaşma Uygulaması
+
+![](Naptın.gif)
